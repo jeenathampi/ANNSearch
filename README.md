@@ -3,10 +3,10 @@ a) LSH
 
  
 
-b) exhaustive search
+b) Exhaustive search
 
-c) product quantization
+c) Product Quantization
 
-d) trees and graphs
+d) Trees and Graphs
 
-e) hnsw
+e) HNSW
